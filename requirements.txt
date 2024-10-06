@@ -1,5 +1,7 @@
-streamlit
-SpeechRecognition
-gTTS
-playsound
-google-generative-ai
+streamlit==1.25.0
+pandas==2.1.1
+numpy==1.26.0
+plotly==5.17.0
+matplotlib==3.8.0
+requests==2.31.0
+google-generativeai==0.1.0
