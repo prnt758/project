@@ -1,0 +1,5 @@
+streamlit
+SpeechRecognition
+gTTS
+playsound
+google-generative-ai
